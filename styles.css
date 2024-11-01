@@ -1,7 +1,7 @@
 /* 主体部分是浏览器找到body标签后触发以下5个效果 */
 body {
     font-family: Times New Roman; /* 设置字体为Times New Roman */
-    background-color: black; /* 设置背景颜色为海棠红 */
+    background-color: #E36F85; /* 设置背景颜色为海棠红 */
     color: #003C75; /* 设置文本颜色为绀宇色 */
     margin: 0; /* 页面外边距设为0，也就是本行与上下行之间距离 */
     padding: 20px; /* 页面内边距设为20像素，也就是左边界距离左起第一个字符串距离 */
